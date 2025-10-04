@@ -35,7 +35,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/HisortBot.git
+   git clone https://github.com/ntmrl/HisortBot.git
    cd HisortBot
    ```
 
